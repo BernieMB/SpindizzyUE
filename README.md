@@ -10,5 +10,5 @@ I bought this game in C64 almost 40 years ago, and I can't finish it. This versi
 
 When I have time, I will make a miniMap (with no visited/visited wo diamonds/visited with diamond). And planned a entire level, "the mountain", with some bug fixing and improvements.
 
-Under MIT license.
+This work is under MIT license. But remmember that original Spindizzy name is copyrighted.
 
